@@ -1,0 +1,16 @@
+D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\bin\Release\net10.0\TuApp.Application.deps.json
+D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\bin\Release\net10.0\TuApp.Application.dll
+D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\bin\Release\net10.0\TuApp.Application.pdb
+D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\bin\Release\net10.0\TuApp.Domain.dll
+D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\bin\Release\net10.0\TuApp.Domain.pdb
+D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\obj\Release\net10.0\TuApp.Application.csproj.AssemblyReference.cache
+D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\obj\Release\net10.0\TuApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\obj\Release\net10.0\TuApp.Application.AssemblyInfoInputs.cache
+D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\obj\Release\net10.0\TuApp.Application.AssemblyInfo.cs
+D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\obj\Release\net10.0\TuApp.Application.csproj.CoreCompileInputs.cache
+D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\obj\Release\net10.0\TuApp.Application.sourcelink.json
+D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\obj\Release\net10.0\TuApp.Ap.9A9B296D.Up2Date
+D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\obj\Release\net10.0\TuApp.Application.dll
+D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\obj\Release\net10.0\refint\TuApp.Application.dll
+D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\obj\Release\net10.0\TuApp.Application.pdb
+D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\obj\Release\net10.0\ref\TuApp.Application.dll

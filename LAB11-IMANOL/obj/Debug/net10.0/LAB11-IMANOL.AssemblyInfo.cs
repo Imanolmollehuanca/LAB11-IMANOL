@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LAB11-IMANOL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12a9dea06d7d2ac743311c39928631acda8d4af9")]
 [assembly: System.Reflection.AssemblyProductAttribute("LAB11-IMANOL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LAB11-IMANOL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

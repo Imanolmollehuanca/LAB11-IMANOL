@@ -9,3 +9,4 @@ D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Domain
 D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Domain\obj\Debug\net10.0\refint\TuApp.Domain.dll
 D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Domain\obj\Debug\net10.0\TuApp.Domain.pdb
 D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Domain\obj\Debug\net10.0\ref\TuApp.Domain.dll
+D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Domain\obj\Debug\net10.0\TuApp.Domain.sourcelink.json

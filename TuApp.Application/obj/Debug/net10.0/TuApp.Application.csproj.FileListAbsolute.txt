@@ -13,3 +13,4 @@ D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Applic
 D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\obj\Debug\net10.0\refint\TuApp.Application.dll
 D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\obj\Debug\net10.0\TuApp.Application.pdb
 D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\obj\Debug\net10.0\ref\TuApp.Application.dll
+D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\TuApp.Application\obj\Debug\net10.0\TuApp.Application.sourcelink.json

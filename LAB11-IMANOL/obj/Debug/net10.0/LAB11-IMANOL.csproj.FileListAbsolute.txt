@@ -51,3 +51,4 @@ D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\LAB11-IMANOL
 D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\LAB11-IMANOL\obj\Debug\net10.0\LAB11-IMANOL.pdb
 D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\LAB11-IMANOL\obj\Debug\net10.0\LAB11-IMANOL.genruntimeconfig.cache
 D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\LAB11-IMANOL\obj\Debug\net10.0\ref\LAB11-IMANOL.dll
+D:\1.Desarrollo de Aplicaciones Empresariales Avanzado\LAB11-IMANOL\LAB11-IMANOL\obj\Debug\net10.0\LAB11-IMANOL.sourcelink.json
